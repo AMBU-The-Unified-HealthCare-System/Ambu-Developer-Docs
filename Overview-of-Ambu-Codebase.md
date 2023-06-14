@@ -1,3 +1,7 @@
+** Note to developers:
+
+> This Wiki will be updated as we scale our code base. We are currently in our initial phase, so we don't have much to explain. However, as the number of files and folder increases, this wiki will be updated simultaneously.
+
 ## Table of Contents
 
 * [Web server anatomy: Explaining "frontend" and "backend"](#web-server-anatomy-explaining-frontend-and-backend)
